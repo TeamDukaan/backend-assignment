@@ -6,7 +6,7 @@ Dukaan is a tech platform that enables a business to quickly set up and run an o
 A typical seller installs the Dukaan app, Signs up using his mobile number and creates his store. He can then start uploading inventory (as products) to his store.
 Once the store is created, he can share the store link with his/her customers on social media and starts accepting online orders.  
   
-Your assignment is to Design a very basic API & database structure in Django which supports above work-flow.
+Your assignment is to Design a very basic API (Django DRF) & database (PG) structure which supports above work-flow.
 
 ### Detailed breakdown of the workflow -
 
