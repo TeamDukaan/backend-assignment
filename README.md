@@ -21,11 +21,11 @@ Your assignment is to Design a very basic API (Django DRF) & database (any SQL d
 
 2.  seller creates his **store**
 	1.  Take store name & address as input.  
-	2.  Create store in store table. One customer can have multiple stores.
+	2.  Create store in store table. One seller can have multiple stores.
 	3.  Generate a unique store link based on his store name.
 	4.  Respond back with storeid and link.
 
-3.  seller starts uploading inventory in the form of **products** and **seller**.
+3.  seller starts uploading inventory in the form of **products** and **categories**.
   
 	1.  Take product name, description, MRP, Sale price, image & category as input.  
 	2.  Create a category if it doesn't exist.
