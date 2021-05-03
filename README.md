@@ -1,5 +1,5 @@
 
-# Assignment for full-stack/backend developer.
+# Assessment for full-stack/backend developer.
 
 Dukaan is a tech platform that enables a business to quickly set up and run an online retail store.
 
