@@ -1,5 +1,5 @@
 
-# Assessment for full-stack/backend developer.
+# Assessment for backend developer.
 
 Dukaan is a tech platform that enables a business to quickly set up and run an online retail store.
 
@@ -56,7 +56,7 @@ Your assignment is to Design a very basic API (Django DRF) & database (any SQL d
 
 3.  people (Un-authenticated users) can add items into their cart.
    
-	1.  Maintain a cart on the server in either DB or redis or MongoDb    
+	1.  Maintain a cart on the server (create appropriate models for this)
 	2.  On cart change (add / remove item) update the cart on server
 	3.  For cart line items take product id, qty, storeLink as input and fetch product meta data from the DB and save them.
   
